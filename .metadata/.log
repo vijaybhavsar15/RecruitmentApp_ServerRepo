@@ -1,0 +1,401 @@
+!SESSION 2014-09-11 18:02:08.461 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.6.0_20
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2014-09-11 18:02:35.510
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\IB1658'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.salesforce.ide.core 2 0 2014-09-11 18:03:51.657
+!MESSAGE  WARN [2014-09-11 18:03:51,653] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'FlexiPage': Unable to get bean for id 'FlexiPage'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-09-11 18:03:51.680
+!MESSAGE  WARN [2014-09-11 18:03:51,662] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-09-11 18:03:53.199
+!MESSAGE  WARN [2014-09-11 18:03:53,197] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'FlexiPage': Unable to get bean for id 'FlexiPage'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-09-11 18:03:53.208
+!MESSAGE  WARN [2014-09-11 18:03:53,207] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-09-11 18:03:58.484
+!MESSAGE  WARN [2014-09-11 18:03:58,482] (Utils.java:loadDocument:823) - Unable to load document: C:\Users\IB1658\Desktop\SFDC_Studies\Force.comMigrationTool-ANT\SFDC_CI_Demo\.metadata\.plugins\com.salesforce.ide.core\packageCache.xml (The system cannot find the file specified)
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-09-11 18:03:59.429
+!MESSAGE  WARN [2014-09-11 18:03:59,428] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'FlexiPage': Unable to get bean for id 'FlexiPage'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-09-11 18:03:59.436
+!MESSAGE  WARN [2014-09-11 18:03:59,435] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-09-11 18:04:00.483
+!MESSAGE  WARN [2014-09-11 18:04:00,481] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'FlexiPage': Unable to get bean for id 'FlexiPage'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-09-11 18:04:00.500
+!MESSAGE  WARN [2014-09-11 18:04:00,497] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-09-11 18:04:01.247
+!MESSAGE  WARN [2014-09-11 18:04:01,245] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'FlexiPage': Unable to get bean for id 'FlexiPage'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-09-11 18:04:01.256
+!MESSAGE  WARN [2014-09-11 18:04:01,255] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-09-11 18:04:02.305
+!MESSAGE  WARN [2014-09-11 18:04:02,302] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'FlexiPage': Unable to get bean for id 'FlexiPage'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-09-11 18:04:02.320
+!MESSAGE  WARN [2014-09-11 18:04:02,317] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-09-11 18:04:03.480
+!MESSAGE  WARN [2014-09-11 18:04:03,479] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'FlexiPage': Unable to get bean for id 'FlexiPage'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-09-11 18:04:03.496
+!MESSAGE  WARN [2014-09-11 18:04:03,494] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-09-11 18:04:29.939
+!MESSAGE  WARN [2014-09-11 18:04:29,938] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'BusinessProcess': Unable to get bean for id 'BusinessProcess'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-09-11 18:04:29.946
+!MESSAGE  WARN [2014-09-11 18:04:29,945] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'CompactLayout': Unable to get bean for id 'CompactLayout'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-09-11 18:04:29.952
+!MESSAGE  WARN [2014-09-11 18:04:29,951] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'CustomField': Unable to get bean for id 'CustomField'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-09-11 18:04:29.956
+!MESSAGE  WARN [2014-09-11 18:04:29,955] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'CustomLabel': Unable to get bean for id 'CustomLabel'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-09-11 18:04:30.551
+!MESSAGE  WARN [2014-09-11 18:04:30,549] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'FlexiPage': Unable to get bean for id 'FlexiPage'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-09-11 18:04:30.561
+!MESSAGE  WARN [2014-09-11 18:04:30,559] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-09-11 18:04:31.152
+!MESSAGE  WARN [2014-09-11 18:04:31,149] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'FlexiPage': Unable to get bean for id 'FlexiPage'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-09-11 18:04:31.163
+!MESSAGE  WARN [2014-09-11 18:04:31,162] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-09-11 18:04:31.950
+!MESSAGE  WARN [2014-09-11 18:04:31,948] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'FlexiPage': Unable to get bean for id 'FlexiPage'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-09-11 18:04:31.961
+!MESSAGE  WARN [2014-09-11 18:04:31,960] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-09-11 18:04:32.234
+!MESSAGE  WARN [2014-09-11 18:04:32,232] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'FieldSet': Unable to get bean for id 'FieldSet'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-09-11 18:04:32.238
+!MESSAGE  WARN [2014-09-11 18:04:32,236] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'FlexiPage': Unable to get bean for id 'FlexiPage'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-09-11 18:04:32.253
+!MESSAGE  WARN [2014-09-11 18:04:32,251] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'ListView': Unable to get bean for id 'ListView'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-09-11 18:04:32.258
+!MESSAGE  WARN [2014-09-11 18:04:32,256] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'NamedFilter': Unable to get bean for id 'NamedFilter'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-09-11 18:04:32.273
+!MESSAGE  WARN [2014-09-11 18:04:32,271] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'RecordType': Unable to get bean for id 'RecordType'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-09-11 18:04:36.334
+!MESSAGE  WARN [2014-09-11 18:04:36,332] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'FlexiPage': Unable to get bean for id 'FlexiPage'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-09-11 18:04:36.345
+!MESSAGE  WARN [2014-09-11 18:04:36,343] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-09-11 18:04:36.585
+!MESSAGE  WARN [2014-09-11 18:04:36,583] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'SharingReason': Unable to get bean for id 'SharingReason'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-09-11 18:04:36.596
+!MESSAGE  WARN [2014-09-11 18:04:36,594] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'ValidationRule': Unable to get bean for id 'ValidationRule'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-09-11 18:04:36.598
+!MESSAGE  WARN [2014-09-11 18:04:36,597] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'WebLink': Unable to get bean for id 'WebLink'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-09-11 18:04:36.601
+!MESSAGE  WARN [2014-09-11 18:04:36,600] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'WorkflowAlert': Unable to get bean for id 'WorkflowAlert'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-09-11 18:04:36.603
+!MESSAGE  WARN [2014-09-11 18:04:36,602] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'WorkflowFieldUpdate': Unable to get bean for id 'WorkflowFieldUpdate'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-09-11 18:04:36.605
+!MESSAGE  WARN [2014-09-11 18:04:36,604] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'WorkflowKnowledgePublish': Unable to get bean for id 'WorkflowKnowledgePublish'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-09-11 18:04:36.608
+!MESSAGE  WARN [2014-09-11 18:04:36,606] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'WorkflowOutboundMessage': Unable to get bean for id 'WorkflowOutboundMessage'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-09-11 18:04:36.610
+!MESSAGE  WARN [2014-09-11 18:04:36,609] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'WorkflowRule': Unable to get bean for id 'WorkflowRule'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-09-11 18:04:36.611
+!MESSAGE  WARN [2014-09-11 18:04:36,611] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'WorkflowSend': Unable to get bean for id 'WorkflowSend'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-09-11 18:04:36.613
+!MESSAGE  WARN [2014-09-11 18:04:36,612] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'WorkflowTask': Unable to get bean for id 'WorkflowTask'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-09-11 18:04:36.653
+!MESSAGE  WARN [2014-09-11 18:04:36,652] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'FlexiPage': Unable to get bean for id 'FlexiPage'
+
+
+!ENTRY org.eclipse.jface 2 0 2014-09-11 18:04:36.748
+!MESSAGE Ignored reentrant call while viewer is busy. This is only logged once per viewer instance, but similar calls will still be ignored.
+!STACK 0
+java.lang.RuntimeException
+	at org.eclipse.jface.viewers.ColumnViewer.checkBusy(ColumnViewer.java:763)
+	at org.eclipse.jface.viewers.ColumnViewer.refresh(ColumnViewer.java:530)
+	at org.eclipse.jface.viewers.StructuredViewer.refresh(StructuredViewer.java:1465)
+	at com.salesforce.ide.ui.packagemanifest.PackageManifestTree$5.runInUIThread(PackageManifestTree.java:501)
+	at org.eclipse.ui.progress.UIJob$1.run(UIJob.java:95)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4144)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3761)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:825)
+	at org.eclipse.jface.window.Window.open(Window.java:801)
+	at org.eclipse.jface.dialogs.MessageDialog.open(MessageDialog.java:334)
+	at org.eclipse.jface.dialogs.MessageDialog.open(MessageDialog.java:364)
+	at org.eclipse.jface.dialogs.MessageDialog.openWarning(MessageDialog.java:477)
+	at com.salesforce.ide.core.internal.utils.Utils.openWarn(Utils.java:378)
+	at com.salesforce.ide.ui.packagemanifest.PackageManifestController.logAndDisplayWarnMsgIfNeeded(PackageManifestController.java:737)
+	at com.salesforce.ide.ui.packagemanifest.PackageManifestController.createModel(PackageManifestController.java:858)
+	at com.salesforce.ide.ui.packagemanifest.PackageManifestController.updateManifest(PackageManifestController.java:171)
+	at com.salesforce.ide.ui.packagemanifest.PackageManifestController.getEnabledCompTypeTreeNodes(PackageManifestController.java:430)
+	at com.salesforce.ide.ui.packagemanifest.PackageManifestTree$ManifestContentProvider.getElements(PackageManifestTree.java:688)
+	at org.eclipse.jface.viewers.StructuredViewer.getRawChildren(StructuredViewer.java:1010)
+	at org.eclipse.jface.viewers.ColumnViewer.getRawChildren(ColumnViewer.java:703)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.getRawChildren(AbstractTreeViewer.java:1351)
+	at org.eclipse.jface.viewers.TreeViewer.getRawChildren(TreeViewer.java:391)
+	at org.eclipse.jface.viewers.StructuredViewer.getFilteredChildren(StructuredViewer.java:917)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.getSortedChildren(AbstractTreeViewer.java:620)
+	at org.eclipse.jface.viewers.AbstractTreeViewer$1.run(AbstractTreeViewer.java:820)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.createChildren(AbstractTreeViewer.java:797)
+	at org.eclipse.jface.viewers.TreeViewer.createChildren(TreeViewer.java:644)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.createChildren(AbstractTreeViewer.java:768)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalInitializeTree(AbstractTreeViewer.java:1548)
+	at org.eclipse.jface.viewers.TreeViewer.internalInitializeTree(TreeViewer.java:833)
+	at org.eclipse.jface.viewers.AbstractTreeViewer$5.run(AbstractTreeViewer.java:1532)
+	at org.eclipse.jface.viewers.StructuredViewer.preservingSelection(StructuredViewer.java:1443)
+	at org.eclipse.jface.viewers.TreeViewer.preservingSelection(TreeViewer.java:403)
+	at org.eclipse.jface.viewers.StructuredViewer.preservingSelection(StructuredViewer.java:1404)
+	at org.eclipse.jface.viewers.CheckboxTreeViewer.preservingSelection(CheckboxTreeViewer.java:416)
+	at com.salesforce.ide.ui.packagemanifest.PackageManifestTree$PackageManifestTreeViewer.preservingSelection(PackageManifestTree.java:418)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.inputChanged(AbstractTreeViewer.java:1525)
+	at org.eclipse.jface.viewers.ContentViewer.setInput(ContentViewer.java:280)
+	at org.eclipse.jface.viewers.StructuredViewer.setInput(StructuredViewer.java:1690)
+	at com.salesforce.ide.ui.packagemanifest.PackageManifestTree.updateTree(PackageManifestTree.java:1684)
+	at com.salesforce.ide.ui.wizards.project.ProjectCustomComponentsComposite.initialize(ProjectCustomComponentsComposite.java:107)
+	at com.salesforce.ide.ui.wizards.project.ProjectCustomComponentsComposite.<init>(ProjectCustomComponentsComposite.java:64)
+	at com.salesforce.ide.ui.wizards.project.ProjectCustomComponentsDialog.createDialogArea(ProjectCustomComponentsDialog.java:54)
+	at org.eclipse.jface.dialogs.Dialog.createContents(Dialog.java:760)
+	at org.eclipse.jface.window.Window.create(Window.java:431)
+	at org.eclipse.jface.dialogs.Dialog.create(Dialog.java:1089)
+	at com.salesforce.ide.ui.wizards.project.ProjectCustomComponentsDialog.create(ProjectCustomComponentsDialog.java:153)
+	at org.eclipse.jface.window.Window.open(Window.java:790)
+	at com.salesforce.ide.ui.wizards.project.ProjectProjectContentComposite$9.widgetDefaultSelected(ProjectProjectContentComposite.java:294)
+	at com.salesforce.ide.ui.wizards.project.ProjectProjectContentComposite$9.widgetSelected(ProjectProjectContentComposite.java:308)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:248)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1053)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4169)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3758)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:825)
+	at org.eclipse.jface.window.Window.open(Window.java:801)
+	at org.eclipse.ui.actions.NewProjectAction.run(NewProjectAction.java:117)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:498)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:584)
+	at org.eclipse.jface.action.ActionContributionItem.access$2(ActionContributionItem.java:501)
+	at org.eclipse.jface.action.ActionContributionItem$5.handleEvent(ActionContributionItem.java:411)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1053)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4169)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3758)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1053)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:942)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:86)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:588)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:543)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:353)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:629)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:584)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1438)
+
+!ENTRY com.salesforce.ide.core 2 0 2014-09-11 18:05:44.014
+!MESSAGE  WARN [2014-09-11 18:05:44,013] (ProjectController.java:handleRetrieveResults:727) - Failed to retrieve: 'Salesforce1 and Chatter Apps/package.xml': Metadata API received improper input. Please ensure file name and capitalization is correct. Load of metadata from db failed for metadata of type:ConnectedApp and file name:SalesforceA.
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-09-11 18:05:44.015
+!MESSAGE  WARN [2014-09-11 18:05:44,015] (ProjectController.java:handleRetrieveResults:727) - Failed to retrieve: 'Salesforce1 and Chatter Apps/package.xml': Metadata API received improper input. Please ensure file name and capitalization is correct. Load of metadata from db failed for metadata of type:ConnectedApp and file name:Chatter_for_iOS.
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-09-11 18:05:44.017
+!MESSAGE  WARN [2014-09-11 18:05:44,016] (ProjectController.java:handleRetrieveResults:727) - Failed to retrieve: 'Salesforce1 and Chatter Apps/package.xml': Metadata API received improper input. Please ensure file name and capitalization is correct. Load of metadata from db failed for metadata of type:ConnectedApp and file name:Chatter_for_BlackBerry.
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-09-11 18:05:44.019
+!MESSAGE  WARN [2014-09-11 18:05:44,017] (ProjectController.java:handleRetrieveResults:727) - Failed to retrieve: 'Salesforce1 and Chatter Apps/package.xml': Metadata API received improper input. Please ensure file name and capitalization is correct. Load of metadata from db failed for metadata of type:ConnectedApp and file name:Chatter_for_Android.
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-09-11 18:05:44.021
+!MESSAGE  WARN [2014-09-11 18:05:44,019] (ProjectController.java:handleRetrieveResults:727) - Failed to retrieve: 'Salesforce1 and Chatter Apps/package.xml': Metadata API received improper input. Please ensure file name and capitalization is correct. Load of metadata from db failed for metadata of type:ConnectedApp and file name:Chatter_Desktop.
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-09-11 18:05:44.023
+!MESSAGE  WARN [2014-09-11 18:05:44,022] (ProjectController.java:handleRetrieveResults:727) - Failed to retrieve: 'Salesforce1 and Chatter Apps/package.xml': Metadata API received improper input. Please ensure file name and capitalization is correct. Load of metadata from db failed for metadata of type:ConnectedApp and file name:Salesforce_Chatterbox.
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-09-11 18:05:44.033
+!MESSAGE  WARN [2014-09-11 18:05:44,033] (ComponentFactory.java:getComponentByFilePath:613) - No id found for filepath 'modules/C5r_for_iOS_oauth/ConnectivityDevConfigs/C5r_for_iOS_oauth_devConfig.ConnectivityDevConfig', tagging as component of type 'Unknown'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-09-11 18:05:44.042
+!MESSAGE  WARN [2014-09-11 18:05:44,041] (ComponentFactory.java:getComponentByFilePath:613) - No id found for filepath 'modules/C5r_for_iOS_oauth/modules/sf_chttr_apps__C5r_for_iOS_oauth', tagging as component of type 'Unknown'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-09-11 18:05:44.053
+!MESSAGE  WARN [2014-09-11 18:05:44,052] (ComponentFactory.java:getComponentByFilePath:613) - No id found for filepath 'applicationManifests/Chatter_for_iOS', tagging as component of type 'Unknown'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-09-11 18:05:44.054
+!MESSAGE  WARN [2014-09-11 18:05:44,054] (ComponentFactory.java:getComponentByFilePath:613) - No id found for filepath 'modules/S9A_oauth/ConnectivityDevConfigs/S9A_oauth_devConfig.ConnectivityDevConfig', tagging as component of type 'Unknown'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-09-11 18:05:44.055
+!MESSAGE  WARN [2014-09-11 18:05:44,055] (ComponentFactory.java:getComponentByFilePath:613) - No id found for filepath 'modules/S9A_oauth/modules/sf_chttr_apps__S9A_oauth', tagging as component of type 'Unknown'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-09-11 18:05:44.057
+!MESSAGE  WARN [2014-09-11 18:05:44,056] (ComponentFactory.java:getComponentByFilePath:613) - No id found for filepath 'applicationManifests/SalesforceA', tagging as component of type 'Unknown'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-09-11 18:05:44.058
+!MESSAGE  WARN [2014-09-11 18:05:44,058] (ComponentFactory.java:getComponentByFilePath:613) - No id found for filepath 'modules/S8e_C8x_oauth/ConnectivityDevConfigs/S8e_C8x_oauth_devConfig.ConnectivityDevConfig', tagging as component of type 'Unknown'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-09-11 18:05:44.060
+!MESSAGE  WARN [2014-09-11 18:05:44,059] (ComponentFactory.java:getComponentByFilePath:613) - No id found for filepath 'modules/S8e_C8x_oauth/modules/sf_chttr_apps__S8e_C8x_oauth', tagging as component of type 'Unknown'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-09-11 18:05:44.062
+!MESSAGE  WARN [2014-09-11 18:05:44,061] (ComponentFactory.java:getComponentByFilePath:613) - No id found for filepath 'applicationManifests/Salesforce_Chatterbox', tagging as component of type 'Unknown'
+
+
+!ENTRY com.salesforce.ide.core 4 0 2014-09-11 18:05:44.063
+!MESSAGE ERROR [2014-09-11 18:05:44,062] (ProjectPackageList.java:generateComponents:473) - Filepath-zip mapping is null or empty for package 'Salesforce1 and Chatter Apps' [0A390000000dj1sCAA] - skipping component generation
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-09-11 18:05:44.064
+!MESSAGE  WARN [2014-09-11 18:05:44,064] (ComponentFactory.java:getComponentByFilePath:613) - No id found for filepath 'modules/C5r_Desktop_oauth/ConnectivityDevConfigs/C5r_Desktop_oauth_devConfig.ConnectivityDevConfig', tagging as component of type 'Unknown'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-09-11 18:05:44.065
+!MESSAGE  WARN [2014-09-11 18:05:44,065] (ComponentFactory.java:getComponentByFilePath:613) - No id found for filepath 'modules/C5r_Desktop_oauth/modules/sf_chttr_apps__C5r_Desktop_oauth', tagging as component of type 'Unknown'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-09-11 18:05:44.066
+!MESSAGE  WARN [2014-09-11 18:05:44,066] (ComponentFactory.java:getComponentByFilePath:613) - No id found for filepath 'applicationManifests/Chatter_Desktop', tagging as component of type 'Unknown'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-09-11 18:05:44.068
+!MESSAGE  WARN [2014-09-11 18:05:44,067] (ComponentFactory.java:getComponentByFilePath:613) - No id found for filepath 'modules/C5r_for_Android_oauth_android/AndroidPushApplicationSetup/C5r_for_Android_oauth_androidAndroidPushApplicationSetup.AndroidPushApplicationSetup', tagging as component of type 'Unknown'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-09-11 18:05:44.069
+!MESSAGE  WARN [2014-09-11 18:05:44,068] (ComponentFactory.java:getComponentByFilePath:613) - No id found for filepath 'modules/C5r_for_Android_oauth_android/modules/sf_chttr_apps__C5r_for_Android_oauth_android', tagging as component of type 'Unknown'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-09-11 18:05:44.070
+!MESSAGE  WARN [2014-09-11 18:05:44,070] (ComponentFactory.java:getComponentByFilePath:613) - No id found for filepath 'modules/C5r_for_Android_oauth/ConnectivityDevConfigs/C5r_for_Android_oauth_devConfig.ConnectivityDevConfig', tagging as component of type 'Unknown'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-09-11 18:05:44.072
+!MESSAGE  WARN [2014-09-11 18:05:44,071] (ComponentFactory.java:getComponentByFilePath:613) - No id found for filepath 'modules/C5r_for_Android_oauth/modules/sf_chttr_apps__C5r_for_Android_oauth', tagging as component of type 'Unknown'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-09-11 18:05:44.073
+!MESSAGE  WARN [2014-09-11 18:05:44,072] (ComponentFactory.java:getComponentByFilePath:613) - No id found for filepath 'applicationManifests/Chatter_for_Android', tagging as component of type 'Unknown'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-09-11 18:05:44.074
+!MESSAGE  WARN [2014-09-11 18:05:44,073] (ComponentFactory.java:getComponentByFilePath:613) - No id found for filepath 'modules/C5r_for_BlackBerry_oauth/ConnectivityDevConfigs/C5r_for_BlackBerry_oauth_devConfig.ConnectivityDevConfig', tagging as component of type 'Unknown'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-09-11 18:05:44.075
+!MESSAGE  WARN [2014-09-11 18:05:44,075] (ComponentFactory.java:getComponentByFilePath:613) - No id found for filepath 'modules/C5r_for_BlackBerry_oauth/modules/sf_chttr_apps__C5r_for_BlackBerry_oauth', tagging as component of type 'Unknown'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-09-11 18:05:44.076
+!MESSAGE  WARN [2014-09-11 18:05:44,076] (ComponentFactory.java:getComponentByFilePath:613) - No id found for filepath 'applicationManifests/Chatter_for_BlackBerry', tagging as component of type 'Unknown'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-09-11 18:05:44.078
+!MESSAGE  WARN [2014-09-11 18:05:44,077] (ComponentFactory.java:getComponentByFilePath:613) - No id found for filepath 'modules/C5r_for_iOS_oauth_apple/ApplePushApplicationSetup/C5r_for_iOS_oauth_appleApplePushApplicationSetup.ApplePushApplicationSetup', tagging as component of type 'Unknown'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-09-11 18:05:44.079
+!MESSAGE  WARN [2014-09-11 18:05:44,078] (ComponentFactory.java:getComponentByFilePath:613) - No id found for filepath 'modules/C5r_for_iOS_oauth_apple/modules/sf_chttr_apps__C5r_for_iOS_oauth_apple', tagging as component of type 'Unknown'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-09-11 18:05:44.285
+!MESSAGE  WARN [2014-09-11 18:05:44,284] (ProjectPackageList.java:saveResources:1153) - Component list in project package 'Salesforce1 and Chatter Apps' is empty.  No resources to save.
+

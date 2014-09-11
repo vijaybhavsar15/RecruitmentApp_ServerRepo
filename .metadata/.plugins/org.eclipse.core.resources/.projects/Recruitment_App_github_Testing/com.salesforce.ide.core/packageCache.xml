@@ -1,0 +1,744 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<types xmlns="http://soap.sforce.com/2006/04/metadata">
+  <types isSubType="false">
+    <name>AccountCriteriaBasedSharingRule</name>
+  </types>
+  <types isSubType="false">
+    <name>AccountOwnerSharingRule</name>
+    <members>xyz</members>
+  </types>
+  <types isSubType="false">
+    <name>AnalyticSnapshot</name>
+  </types>
+  <types isSubType="false">
+    <name>ApexClass</name>
+    <members>ChatterAnswersAuthProviderRegistration</members>
+    <members>ChatterAnswersCreateAccountTest</members>
+    <members>ChatterAnswersEscalationTriggerTest</members>
+    <members>ChatterAnswersRegistration</members>
+  </types>
+  <types isSubType="false">
+    <name>ApexComponent</name>
+  </types>
+  <types isSubType="false">
+    <name>ApexPage</name>
+    <members>CandidateMap</members>
+    <members>ChatterAnswersAgentView</members>
+    <members>ChatterAnswersChangePassword</members>
+    <members>ChatterAnswersForgotPassword</members>
+    <members>ChatterAnswersForgotPasswordConfirm</members>
+    <members>ChatterAnswersHelp</members>
+    <members>ChatterAnswersLogin</members>
+    <members>ChatterAnswersRegistration</members>
+    <members>MassUpdateStatus</members>
+  </types>
+  <types isSubType="false">
+    <name>ApexTrigger</name>
+    <members>chatter_answers_question_escalation_to_case_trigger</members>
+  </types>
+  <types isSubType="false">
+    <name>ApprovalProcess</name>
+    <members>Opportunity.MyApprovalProcess2</members>
+    <members>Position__c.Approve_New_Position</members>
+  </types>
+  <types isSubType="false">
+    <name>AssignmentRule</name>
+    <members>Case.Standard</members>
+    <members>Lead.Standard</members>
+  </types>
+  <types isSubType="false">
+    <name>AuthProvider</name>
+  </types>
+  <types isSubType="false">
+    <name>AutoResponseRule</name>
+    <members>Case.CaseARRule</members>
+    <members>Lead.LeadARRule</members>
+  </types>
+  <types isSubType="true" parent="CustomObject">
+    <name>BusinessProcess</name>
+    <members>Lead.TestLeadProcess</members>
+    <members>Opportunity.VijaySalesProcesss</members>
+  </types>
+  <types isSubType="false">
+    <name>CallCenter</name>
+  </types>
+  <types isSubType="false">
+    <name>CampaignCriteriaBasedSharingRule</name>
+  </types>
+  <types isSubType="false">
+    <name>CampaignOwnerSharingRule</name>
+  </types>
+  <types isSubType="false">
+    <name>CaseCriteriaBasedSharingRule</name>
+  </types>
+  <types isSubType="false">
+    <name>CaseOwnerSharingRule</name>
+  </types>
+  <types isSubType="false">
+    <name>Community</name>
+    <members>Internal Zone</members>
+  </types>
+  <types isSubType="true" parent="CustomObject">
+    <name>CompactLayout</name>
+    <members>Candidate__c.Candidate_Compact_Layout</members>
+    <members>Job_Application__c.Job_Application_Compact_Layout</members>
+    <members>Position__c.Position</members>
+    <members>Review__c.Review_Compact_Layout</members>
+  </types>
+  <types isSubType="false">
+    <name>ConnectedApp</name>
+  </types>
+  <types isSubType="false">
+    <name>ContactCriteriaBasedSharingRule</name>
+  </types>
+  <types isSubType="false">
+    <name>ContactOwnerSharingRule</name>
+  </types>
+  <types isSubType="false">
+    <name>CustomApplication</name>
+    <members>MyApp</members>
+    <members>Recruiting</members>
+  </types>
+  <types isSubType="false">
+    <name>CustomApplicationComponent</name>
+    <members>PostionConsole</members>
+  </types>
+  <types isSubType="true" parent="CustomObject">
+    <name>CustomField</name>
+    <members>Account.Active__c</members>
+    <members>Account.CustomerPriority__c</members>
+    <members>Account.MyAccountsAsset__c</members>
+    <members>Account.MyContactField__c</members>
+    <members>Account.MyRollUpSummary__c</members>
+    <members>Account.NumberofLocations__c</members>
+    <members>Account.SLA__c</members>
+    <members>Account.SLAExpirationDate__c</members>
+    <members>Account.SLASerialNumber__c</members>
+    <members>Account.Test__c</members>
+    <members>Account.TestText__c</members>
+    <members>Account.TestTextField__c</members>
+    <members>Account.UpsellOpportunity__c</members>
+    <members>Campaign.PositionLookup__c</members>
+    <members>Candidate__c.City__c</members>
+    <members>Candidate__c.Country__c</members>
+    <members>Candidate__c.Current_Employer__c</members>
+    <members>Candidate__c.Currently_Employed__c</members>
+    <members>Candidate__c.Education__c</members>
+    <members>Candidate__c.Email__c</members>
+    <members>Candidate__c.Fax__c</members>
+    <members>Candidate__c.First_Name__c</members>
+    <members>Candidate__c.Last_Name__c</members>
+    <members>Candidate__c.Mobile__c</members>
+    <members>Candidate__c.Phone__c</members>
+    <members>Candidate__c.SSN__c</members>
+    <members>Candidate__c.State_Province__c</members>
+    <members>Candidate__c.Street__c</members>
+    <members>Candidate__c.TestField__c</members>
+    <members>Candidate__c.US_Citizen__c</members>
+    <members>Candidate__c.Visa_Required__c</members>
+    <members>Candidate__c.Years_of_Experience__c</members>
+    <members>Candidate__c.Zip_Postal_Code__c</members>
+    <members>Case.EngineeringReqNumber__c</members>
+    <members>Case.PotentialLiability__c</members>
+    <members>Case.Product__c</members>
+    <members>Case.SLAViolation__c</members>
+    <members>Contact.Languages__c</members>
+    <members>Contact.Level__c</members>
+    <members>Contact.Test__c</members>
+    <members>Employment_Website__c.Maximum_Budget__c</members>
+    <members>Employment_Website__c.Price_Per_Post__c</members>
+    <members>Employment_Website__c.Web_Address__c</members>
+    <members>Job_Application__c.Average_Rating__c</members>
+    <members>Job_Application__c.Candidate__c</members>
+    <members>Job_Application__c.Cover_Letter__c</members>
+    <members>Job_Application__c.Number_of_Reviews__c</members>
+    <members>Job_Application__c.Position__c</members>
+    <members>Job_Application__c.Status__c</members>
+    <members>Job_Application__c.Test_Rollupu__c</members>
+    <members>Job_Application__c.Total_Rating__c</members>
+    <members>Job_Posting__c.Employment_Website__c</members>
+    <members>Job_Posting__c.Position__c</members>
+    <members>Lead.CurrentGenerators__c</members>
+    <members>Lead.NumberofLocations__c</members>
+    <members>Lead.Primary__c</members>
+    <members>Lead.ProductInterest__c</members>
+    <members>Lead.SICCode__c</members>
+    <members>Opportunity.CurrentGenerators__c</members>
+    <members>Opportunity.DeliveryInstallationStatus__c</members>
+    <members>Opportunity.MainCompetitors__c</members>
+    <members>Opportunity.OrderNumber__c</members>
+    <members>Opportunity.Test__c</members>
+    <members>Opportunity.TrackingNumber__c</members>
+    <members>Position__c.Apex__c</members>
+    <members>Position__c.C_Sharp__c</members>
+    <members>Position__c.Close_Date__c</members>
+    <members>Position__c.Days_Open__c</members>
+    <members>Position__c.Educational_Requirements__c</members>
+    <members>Position__c.Functional_Area__c</members>
+    <members>Position__c.Hire_By__c</members>
+    <members>Position__c.Hiring_Manager__c</members>
+    <members>Position__c.Java__c</members>
+    <members>Position__c.JavaScript__c</members>
+    <members>Position__c.Job_Description__c</members>
+    <members>Position__c.Job_Level__c</members>
+    <members>Position__c.Location__c</members>
+    <members>Position__c.Max_Pay__c</members>
+    <members>Position__c.Min_Pay__c</members>
+    <members>Position__c.Open_Date__c</members>
+    <members>Position__c.Responsibilities__c</members>
+    <members>Position__c.Skills_Required__c</members>
+    <members>Position__c.Status__c</members>
+    <members>Position__c.Travel_Required__c</members>
+    <members>Position__c.Type__c</members>
+    <members>Review__c.Assessment__c</members>
+    <members>Review__c.Candidate__c</members>
+    <members>Review__c.Job_Application__c</members>
+    <members>Review__c.Position__c</members>
+    <members>Review__c.Rating__c</members>
+  </types>
+  <types isSubType="true" parent="CustomLabels">
+    <name>CustomLabel</name>
+  </types>
+  <types isSubType="false">
+    <name>CustomLabels</name>
+    <members>CustomLabels</members>
+  </types>
+  <types isSubType="false">
+    <name>CustomObject</name>
+    <members>Candidate__c</members>
+    <members>Employment_Website__c</members>
+    <members>Job_Application__c</members>
+    <members>Job_Posting__c</members>
+    <members>Position__c</members>
+    <members>Review__c</members>
+  </types>
+  <types isSubType="false">
+    <name>CustomObjectCriteriaBasedSharingRule</name>
+  </types>
+  <types isSubType="false">
+    <name>CustomObjectOwnerSharingRule</name>
+    <members>Candidate__c.Edit_Candidates</members>
+    <members>Employment_Website__c.Edit_Employment_Websites</members>
+    <members>Job_Application__c.Review_Records</members>
+    <members>Position__c.Edit_Positions</members>
+  </types>
+  <types isSubType="false">
+    <name>CustomObjectTranslation</name>
+    <members>Candidate__c-en_US</members>
+    <members>Employment_Website__c-en_US</members>
+    <members>Job_Application__c-en_US</members>
+    <members>Job_Posting__c-en_US</members>
+    <members>Position__c-en_US</members>
+    <members>Review__c-en_US</members>
+  </types>
+  <types isSubType="false">
+    <name>CustomPageWebLink</name>
+    <members>MyCustomLink</members>
+  </types>
+  <types isSubType="false">
+    <name>CustomSite</name>
+  </types>
+  <types isSubType="false">
+    <name>CustomTab</name>
+    <members>Candidate__c</members>
+    <members>Employment_Website__c</members>
+    <members>Job_Application__c</members>
+    <members>Position__c</members>
+  </types>
+  <types isSubType="false">
+    <name>Dashboard</name>
+    <members>Recruiting_Dashboards</members>
+    <members>Recruiting_Dashboards/Recruiting_Dashboard</members>
+  </types>
+  <types isSubType="false">
+    <name>DataCategoryGroup</name>
+  </types>
+  <types isSubType="false">
+    <name>Document</name>
+    <members>MyDocumentFolder</members>
+    <members>MyDocumentFolder/HiBu_Logo.jpg</members>
+    <members>MyDocumentFolder/Recruiting_Logo.jpg</members>
+  </types>
+  <types isSubType="false">
+    <name>EmailTemplate</name>
+    <members>unfiled$public</members>
+    <members>MyFolder</members>
+    <members>MyFolder/MyEmailTemplate</members>
+    <members>unfiled$public/CustomerPortalChangePwdEmail</members>
+    <members>unfiled$public/CustomerPortalNewUserEmail</members>
+    <members>unfiled$public/CustomerPortalSelfRegUserEmail</members>
+    <members>unfiled$public/MarketingProductInquiryResponse</members>
+    <members>unfiled$public/Recruiting_App_New_Position_Alert</members>
+    <members>unfiled$public/Recruiting_App_New_Position_Requires_Approval</members>
+    <members>unfiled$public/SalesNewCustomerEmail</members>
+    <members>unfiled$public/SupportCaseAssignmentNotification</members>
+    <members>unfiled$public/SupportCaseCreatedPhoneInquiries</members>
+    <members>unfiled$public/SupportCaseCreatedWebInquiries</members>
+    <members>unfiled$public/SupportCaseResponse</members>
+    <members>unfiled$public/SupportEscalatedCaseNotification</members>
+    <members>unfiled$public/SupportEscalatedCaseReassignment</members>
+    <members>unfiled$public/SUPPORTSelfServiceNewCommentNotificationSAMPLE</members>
+    <members>unfiled$public/SupportSelfServiceNewLoginandPassword</members>
+    <members>unfiled$public/SUPPORTSelfServiceNewUserLoginInformationSAMPLE</members>
+    <members>unfiled$public/SupportSelfServiceResetPassword</members>
+    <members>unfiled$public/SUPPORTSelfServiceResetPasswordSAMPLE</members>
+  </types>
+  <types isSubType="false">
+    <name>EscalationRule</name>
+    <members>Case.MyTest</members>
+    <members>Case.Standard</members>
+  </types>
+  <types isSubType="true" parent="CustomObject">
+    <name>FieldSet</name>
+    <members>Position__c.PositionFieldSet</members>
+  </types>
+  <types isSubType="false">
+    <name>FlexiPage</name>
+  </types>
+  <types isSubType="false">
+    <name>Flow</name>
+  </types>
+  <types isSubType="false">
+    <name>Group</name>
+    <members>MyPublicGroup</members>
+    <members>Reviewers</members>
+  </types>
+  <types isSubType="false">
+    <name>HomePageComponent</name>
+    <members>MyCustomLinkComponent</members>
+  </types>
+  <types isSubType="false">
+    <name>HomePageLayout</name>
+    <members>DE Default</members>
+  </types>
+  <types isSubType="false">
+    <name>Layout</name>
+    <members>Account-Account %28Marketing%29 Layout</members>
+    <members>Account-Account %28Sales%29 Layout</members>
+    <members>Account-Account %28Support%29 Layout</members>
+    <members>Account-Account Layout</members>
+    <members>Account-Copy of Account %28Marketing%29 Layout</members>
+    <members>Asset-Asset Layout</members>
+    <members>Campaign-Campaign Layout</members>
+    <members>CampaignMember-Campaign Member Page Layout</members>
+    <members>Candidate__c-Candidate Layout</members>
+    <members>Case-Case %28Marketing%29 Layout</members>
+    <members>Case-Case %28Sales%29 Layout</members>
+    <members>Case-Case %28Support%29 Layout</members>
+    <members>Case-Case Layout</members>
+    <members>CaseClose-Close Case Layout</members>
+    <members>CaseInteraction-Case Feed Layout</members>
+    <members>CollaborationGroup-Group Layout</members>
+    <members>Contact-Contact %28Marketing%29 Layout</members>
+    <members>Contact-Contact %28Sales%29 Layout</members>
+    <members>Contact-Contact %28Support%29 Layout</members>
+    <members>Contact-Contact Layout</members>
+    <members>ContentVersion-General</members>
+    <members>Contract-Contract Layout</members>
+    <members>Employment_Website__c-Employment Website Layout</members>
+    <members>Event-Event Layout</members>
+    <members>Global-Global Layout</members>
+    <members>Global-Recruiter Layout</members>
+    <members>Idea-Idea Layout</members>
+    <members>Job_Application__c-Job Application Layout</members>
+    <members>Job_Posting__c-Job Posting Layout</members>
+    <members>Lead-Lead %28Marketing%29 Layout</members>
+    <members>Lead-Lead %28Sales%29 Layout</members>
+    <members>Lead-Lead %28Support%29 Layout</members>
+    <members>Lead-Lead Layout</members>
+    <members>Opportunity-Opportunity %28Marketing%29 Layout</members>
+    <members>Opportunity-Opportunity %28Sales%29 Layout</members>
+    <members>Opportunity-Opportunity %28Support%29 Layout</members>
+    <members>Opportunity-Opportunity Layout</members>
+    <members>OpportunityLineItem-Opportunity Product Layout</members>
+    <members>Position__c-FInance Position Layout</members>
+    <members>Position__c-IT Position Layout</members>
+    <members>Position__c-Position Layout</members>
+    <members>Pricebook2-Price Book Layout</members>
+    <members>PricebookEntry-Price Book Entry Layout</members>
+    <members>Product2-Product Layout</members>
+    <members>Question-Question Layout</members>
+    <members>Reply-Reply Layout</members>
+    <members>Review__c-Review Layout</members>
+    <members>SocialPersona-Social Persona Layout</members>
+    <members>SocialPost-Social Post Layout</members>
+    <members>Solution-Solution Layout</members>
+    <members>Task-Task Layout</members>
+    <members>User-User Layout</members>
+  </types>
+  <types isSubType="false">
+    <name>LeadCriteriaBasedSharingRule</name>
+  </types>
+  <types isSubType="false">
+    <name>LeadOwnerSharingRule</name>
+  </types>
+  <types isSubType="false">
+    <name>Letterhead</name>
+    <members>MyLetterHead</members>
+  </types>
+  <types isSubType="true" parent="CustomObject">
+    <name>ListView</name>
+    <members>Account.AllAccounts</members>
+    <members>Account.MyAccounts</members>
+    <members>Account.NewLastWeek</members>
+    <members>Account.NewThisWeek</members>
+    <members>Account.PlatinumandGoldSLACustomers</members>
+    <members>Activity.AllActivities</members>
+    <members>Activity.MyActivities</members>
+    <members>Activity.TodaysTasks</members>
+    <members>Activity.UpcomingEvents</members>
+    <members>Asset.AllAssets</members>
+    <members>Campaign.AllActiveCampaigns</members>
+    <members>Campaign.MyActiveCampaigns</members>
+    <members>Candidate__c.All</members>
+    <members>Case.AllClosedCases</members>
+    <members>Case.AllOpenCases</members>
+    <members>Case.MyCases</members>
+    <members>Case.MyOpenCases</members>
+    <members>Contact.AllContacts</members>
+    <members>Contact.BirthdaysThisMonth</members>
+    <members>Contact.MyContacts</members>
+    <members>Contact.NewLastWeek</members>
+    <members>Contact.NewThisWeek</members>
+    <members>Contract.AllActivatedContracts</members>
+    <members>Contract.AllContracts</members>
+    <members>Contract.AllDraftContracts</members>
+    <members>Contract.AllInApprovalContracts</members>
+    <members>Contract.MyActivatedContracts</members>
+    <members>Contract.MyDraftContracts</members>
+    <members>Contract.MyInApprovalContracts</members>
+    <members>Employment_Website__c.All</members>
+    <members>Idea.Ideas_Last_7_Days</members>
+    <members>Job_Application__c.All</members>
+    <members>Lead.AllOpenLeads</members>
+    <members>Lead.MyUnreadLeads</members>
+    <members>Lead.TodaysLeads</members>
+    <members>Lead.ViewCustom1</members>
+    <members>Lead.ViewCustom2</members>
+    <members>Opportunity.AllOpportunities</members>
+    <members>Opportunity.ClosingNextMonth</members>
+    <members>Opportunity.ClosingThisMonth</members>
+    <members>Opportunity.MyOpportunities</members>
+    <members>Opportunity.NewLastWeek</members>
+    <members>Opportunity.NewThisWeek</members>
+    <members>Opportunity.Private</members>
+    <members>Opportunity.Won</members>
+    <members>Position__c.All</members>
+    <members>Product2.AllProducts</members>
+    <members>Solution.AllReviewedSolutions</members>
+    <members>Solution.AllUnreviewedSolutions</members>
+    <members>User.ActiveUsers</members>
+    <members>User.AdminUsers</members>
+    <members>User.AllUsers</members>
+  </types>
+  <types isSubType="true" parent="CustomObject">
+    <name>NamedFilter</name>
+  </types>
+  <types isSubType="false">
+    <name>OpportunityCriteriaBasedSharingRule</name>
+  </types>
+  <types isSubType="false">
+    <name>OpportunityOwnerSharingRule</name>
+  </types>
+  <types isSubType="false">
+    <name>PermissionSet</name>
+    <members>Hiring_Manager</members>
+    <members>Interviewer</members>
+    <members>Permission_set_for_Job_Applications_Obj</members>
+    <members>Sys_Admin_Candidate_Disable</members>
+  </types>
+  <types isSubType="false">
+    <name>Portal</name>
+    <members>Customer Portal</members>
+  </types>
+  <types isSubType="false">
+    <name>PostTemplate</name>
+  </types>
+  <types isSubType="false">
+    <name>Profile</name>
+    <members>Admin</members>
+    <members>Chatter External User</members>
+    <members>Chatter Free User</members>
+    <members>Chatter Moderator User</members>
+    <members>ContractManager</members>
+    <members>Cross Org Data Proxy User</members>
+    <members>Custom%3A Marketing Profile</members>
+    <members>Custom%3A Sales Profile</members>
+    <members>Custom%3A Support Profile</members>
+    <members>Customer Community Login User</members>
+    <members>Customer Community User</members>
+    <members>Customer Portal Manager Custom</members>
+    <members>Customer Portal Manager Standard</members>
+    <members>Force%2Ecom - App Subscription User</members>
+    <members>Force%2Ecom - Free User</members>
+    <members>Gold Partner User</members>
+    <members>HighVolumePortal</members>
+    <members>Identity User</members>
+    <members>MarketingProfile</members>
+    <members>Partner App Subscription User</members>
+    <members>Partner Community Login User</members>
+    <members>Partner Community User</members>
+    <members>PlatformPortal</members>
+    <members>ReadOnly</members>
+    <members>Recruiter</members>
+    <members>Silver Partner User</members>
+    <members>SolutionManager</members>
+    <members>Standard</members>
+    <members>Standard Employee</members>
+    <members>StandardAul</members>
+    <members>Vijay Standard Platform User</members>
+    <members>Vijay Standard User</members>
+    <members>Work%2Ecom Only User</members>
+  </types>
+  <types isSubType="false">
+    <name>Queue</name>
+    <members>Unclaimed_Positions_Queue</members>
+  </types>
+  <types isSubType="false">
+    <name>QuickAction</name>
+    <members>ChangeDueDate</members>
+    <members>ChangePriority</members>
+    <members>ChangeStatus</members>
+    <members>LogACall</members>
+    <members>New_Application</members>
+    <members>New_Application</members>
+    <members>New_Application</members>
+    <members>New_Candidate</members>
+    <members>New_Posting</members>
+    <members>New_Posting</members>
+    <members>New_Review</members>
+    <members>New_Standard_Position</members>
+    <members>NewAccount</members>
+    <members>NewCase</members>
+    <members>NewChildCase</members>
+    <members>NewContact</members>
+    <members>NewEvent</members>
+    <members>NewGroup</members>
+    <members>NewGroupMember</members>
+    <members>NewLead</members>
+    <members>NewNote</members>
+    <members>NewOpportunity</members>
+    <members>NewTask</members>
+  </types>
+  <types isSubType="true" parent="CustomObject">
+    <name>RecordType</name>
+    <members>Account.Partner_Account_Record_Type</members>
+    <members>Opportunity.MyRecordType</members>
+    <members>Position__c.Finance_Dept</members>
+    <members>Position__c.IT_Position</members>
+    <members>Position__c.Standard_Position</members>
+  </types>
+  <types isSubType="false">
+    <name>RemoteSiteSetting</name>
+    <members>ApexDevNet</members>
+  </types>
+  <types isSubType="false">
+    <name>Report</name>
+    <members>Recruiting_Reports</members>
+    <members>unfiled$public</members>
+    <members>Recruiting_Reports/Avg_Days_to_Hire_With_and_Without_Trave</members>
+    <members>Recruiting_Reports/Employee_Interviewers</members>
+    <members>Recruiting_Reports/Job_Applications_by_Functional_Area</members>
+    <members>Recruiting_Reports/Open_Positions_by_Functional_Area_Region</members>
+    <members>Recruiting_Reports/Positions_Hired_in_Last_90_Days</members>
+    <members>Recruiting_Reports/Positions_Open_Longer_Than_90_Days</members>
+    <members>Recruiting_Reports/Recruiter_Status</members>
+    <members>unfiled$public/Lead_History</members>
+  </types>
+  <types isSubType="false">
+    <name>ReportType</name>
+    <members>AccountContactOpportunity</members>
+    <members>Positions_with_Reviewed_Job_Applications</members>
+  </types>
+  <types isSubType="false">
+    <name>Role</name>
+    <members>CEO</members>
+    <members>CFO</members>
+    <members>ChannelSalesTeam</members>
+    <members>COO</members>
+    <members>CustomerSupportInternational</members>
+    <members>CustomerSupportNorthAmerica</members>
+    <members>Director_of_Product_Management</members>
+    <members>Director_of_QA</members>
+    <members>DirectorChannelSales</members>
+    <members>DirectorDirectSales</members>
+    <members>EasternSalesTeam</members>
+    <members>InstallationRepairServices</members>
+    <members>MarketingTeam</members>
+    <members>Product_Manager</members>
+    <members>QA_Engineer</members>
+    <members>Recruiter</members>
+    <members>Recruiting_Manager</members>
+    <members>Software_Development_manager</members>
+    <members>Software_Engineer</members>
+    <members>SVPCustomerServiceSupport</members>
+    <members>SVPHumanResources</members>
+    <members>SVPSalesMarketing</members>
+    <members>VP_of_Development</members>
+    <members>VP_of_Human_Resources</members>
+    <members>VPInternationalSales</members>
+    <members>VPMarketing</members>
+    <members>VPNorthAmericanSales</members>
+    <members>WesternSalesTeam</members>
+  </types>
+  <types isSubType="false">
+    <name>SamlSsoConfig</name>
+  </types>
+  <types isSubType="false">
+    <name>Scontrol</name>
+  </types>
+  <types isSubType="false">
+    <name>Settings</name>
+    <members>Account</members>
+    <members>Activities</members>
+    <members>Address</members>
+    <members>BusinessHours</members>
+    <members>Case</members>
+    <members>ChatterAnswers</members>
+    <members>Contract</members>
+    <members>Entitlement</members>
+    <members>Ideas</members>
+    <members>Knowledge</members>
+    <members>LiveAgent</members>
+    <members>Mobile</members>
+    <members>Opportunity</members>
+    <members>Product</members>
+    <members>Quote</members>
+    <members>Security</members>
+  </types>
+  <types isSubType="true" parent="CustomObject">
+    <name>SharingReason</name>
+  </types>
+  <types isSubType="false">
+    <name>StandardObject</name>
+    <members>Account</members>
+    <members>AccountContactRole</members>
+    <members>Activity</members>
+    <members>Asset</members>
+    <members>Campaign</members>
+    <members>CampaignMember</members>
+    <members>Case</members>
+    <members>CaseContactRole</members>
+    <members>Contact</members>
+    <members>ContentVersion</members>
+    <members>Contract</members>
+    <members>ContractContactRole</members>
+    <members>Event</members>
+    <members>Idea</members>
+    <members>Lead</members>
+    <members>Opportunity</members>
+    <members>OpportunityCompetitor</members>
+    <members>OpportunityContactRole</members>
+    <members>OpportunityLineItem</members>
+    <members>OpportunityTeamMember</members>
+    <members>PartnerRole</members>
+    <members>Pricebook2</members>
+    <members>PricebookEntry</members>
+    <members>Product2</members>
+    <members>Question</members>
+    <members>Reply</members>
+    <members>Site</members>
+    <members>SocialPersona</members>
+    <members>Solution</members>
+    <members>Task</members>
+    <members>User</members>
+  </types>
+  <types isSubType="false">
+    <name>StaticResource</name>
+  </types>
+  <types isSubType="false">
+    <name>UserCriteriaBasedSharingRule</name>
+  </types>
+  <types isSubType="false">
+    <name>UserMembershipSharingRule</name>
+  </types>
+  <types isSubType="true" parent="CustomObject">
+    <name>ValidationRule</name>
+    <members>Lead.MyRule</members>
+    <members>Position__c.Close_Date_Rule</members>
+    <members>Position__c.Min_Pay_Rule</members>
+    <members>Review__c.Rating_Scale_Rule</members>
+  </types>
+  <types isSubType="true" parent="CustomObject">
+    <name>WebLink</name>
+    <members>Account.Billing</members>
+    <members>Campaign.ViewCampaignInfluenceReport</members>
+    <members>Case.UpsellCrosssellOpportunity</members>
+    <members>Opportunity.DeliveryStatus</members>
+  </types>
+  <types isSubType="false">
+    <name>Workflow</name>
+    <members>Account</members>
+    <members>Asset</members>
+    <members>Campaign</members>
+    <members>CampaignMember</members>
+    <members>Candidate__c</members>
+    <members>Case</members>
+    <members>Contact</members>
+    <members>Contract</members>
+    <members>Employment_Website__c</members>
+    <members>Event</members>
+    <members>Idea</members>
+    <members>Job_Application__c</members>
+    <members>Job_Posting__c</members>
+    <members>Lead</members>
+    <members>Opportunity</members>
+    <members>OpportunityLineItem</members>
+    <members>OpportunityTeamMember</members>
+    <members>Organization</members>
+    <members>Position__c</members>
+    <members>Product2</members>
+    <members>Question</members>
+    <members>Reply</members>
+    <members>Review__c</members>
+    <members>Site</members>
+    <members>SocialPersona</members>
+    <members>Solution</members>
+    <members>Task</members>
+    <members>User</members>
+    <members>UserLicense</members>
+  </types>
+  <types isSubType="true" parent="Workflow">
+    <name>WorkflowAlert</name>
+    <members>Opportunity.ApprovedEmail</members>
+    <members>Position__c.Email_New_Position_Alert</members>
+  </types>
+  <types isSubType="true" parent="Workflow">
+    <name>WorkflowFieldUpdate</name>
+    <members>Job_Application__c.TesFieldUpdate</members>
+    <members>Position__c.Reassign_Position_to_Queue</members>
+    <members>Position__c.Set_Close_Date_to_Today</members>
+    <members>Position__c.Set_Status_to_Closed_Not_Approved</members>
+    <members>Position__c.Set_Status_to_Open_Approved</members>
+    <members>Position__c.Set_Status_to_Pending_Approval</members>
+    <members>Question.X01R90000000jpTJ</members>
+  </types>
+  <types isSubType="true" parent="Workflow">
+    <name>WorkflowKnowledgePublish</name>
+  </types>
+  <types isSubType="true" parent="Workflow">
+    <name>WorkflowOutboundMessage</name>
+  </types>
+  <types isSubType="true" parent="Workflow">
+    <name>WorkflowRule</name>
+    <members>Account.MyWFRule</members>
+    <members>Case.MyCaseWFRule</members>
+    <members>Job_Application__c.Extend an Offer</members>
+    <members>Job_Application__c.Rejection Letter</members>
+    <members>Job_Posting__c.JobPostingWFRule</members>
+    <members>Position__c.Assign Position to Recruiter</members>
+    <members>Position__c.Email New Position Alert</members>
+    <members>Question.chatter_answers_no_best_reply_within_time_limit_wf</members>
+    <members>Question.chatter_answers_num_subscriptions_above_limit_wf</members>
+  </types>
+  <types isSubType="true" parent="Workflow">
+    <name>WorkflowSend</name>
+  </types>
+  <types isSubType="true" parent="Workflow">
+    <name>WorkflowTask</name>
+    <members>Job_Application__c.Extend_an_Offer</members>
+    <members>Job_Application__c.Send_Rejection_Letter</members>
+    <members>Opportunity.Rejected</members>
+    <members>Position__c.Assign_Unclaimed_Position_Record_to_Recruiter</members>
+  </types>
+</types>

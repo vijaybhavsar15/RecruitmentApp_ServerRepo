@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <deploymentStatus>Deployed</deploymentStatus>
+    <enableActivities>true</enableActivities>
+    <enableHistory>true</enableHistory>
+    <enableReports>true</enableReports>
+    <fields>
+        <fullName>Employment_Website__c</fullName>
+        <label>Employment Website</label>
+        <referenceTo>Employment_Website__c</referenceTo>
+        <relationshipLabel>Positions</relationshipLabel>
+        <relationshipName>Job_Postings</relationshipName>
+        <relationshipOrder>1</relationshipOrder>
+        <type>MasterDetail</type>
+    </fields>
+    <fields>
+        <fullName>Position__c</fullName>
+        <label>Position</label>
+        <referenceTo>Position__c</referenceTo>
+        <relationshipLabel>Employment Websites</relationshipLabel>
+        <relationshipName>Job_Postings</relationshipName>
+        <relationshipOrder>0</relationshipOrder>
+        <type>MasterDetail</type>
+    </fields>
+    <label>Job Posting</label>
+    <nameField>
+        <displayFormat>JP-{00000}</displayFormat>
+        <label>Job Posting Number</label>
+        <type>AutoNumber</type>
+    </nameField>
+    <pluralLabel>Job Postings</pluralLabel>
+    <searchLayouts/>
+    <sharingModel>ControlledByParent</sharingModel>
+</CustomObject>
